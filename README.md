@@ -1,2 +1,2 @@
 # firebase_test
-pirebase_test
+firebase_test
